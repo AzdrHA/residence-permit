@@ -14,7 +14,7 @@
 
 // @match         https://www.rdv-prefecture.interieur.gouv.fr/rdvpref/reservation/demarche/4443*
 // @icon          https://www.google.com/s2/favicons?sz=64&domain=gouv.fr
-// @grant         GM_log
+// @grant         unsafeWindow
 // @run-at        document-idle
 // ==/UserScript==
 
