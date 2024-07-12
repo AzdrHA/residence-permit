@@ -9,10 +9,10 @@
 
 // @homepageURL   https://github.com/AzdrHA/residence-permit
 // @supportURL    https://github.com/AzdrHA/residence-permit/issues
-// @downloadURL   https://raw.githubusercontent.com/AzdrHA/residence-permit/master/autobattlefrontier.user.js
-// @updateURL     https://raw.githubusercontent.com/AzdrHA/residence-permit/master/autobattlefrontier.user.js
+// @downloadURL   https://raw.githubusercontent.com/AzdrHA/residence-permit/master/residencepermit.js
+// @updateURL     https://raw.githubusercontent.com/AzdrHA/residence-permit/master/residencepermit.js
 
-// @match         https://www.rdv-prefecture.interieur.gouv.fr/rdvpref/reservation/demarche/4443*
+// @match         https://www.rdv-prefecture.interieur.gouv.fr/rdvpref/reservation/demarche/4101*
 // @icon          https://www.google.com/s2/favicons?sz=64&domain=gouv.fr
 // @grant         unsafeWindow
 // @run-at        document-idle
