@@ -12,7 +12,7 @@
 // @downloadURL   https://raw.githubusercontent.com/AzdrHA/residence-permit/master/residencepermit.js
 // @updateURL     https://raw.githubusercontent.com/AzdrHA/residence-permit/master/residencepermit.js
 
-// @match         https://www.rdv-prefecture.interieur.gouv.fr/rdvpref/reservation/demarche/4101*
+// @match         https://www.rdv-prefecture.interieur.gouv.fr/rdvpref/reservation/demarche/*
 // @icon          https://www.google.com/s2/favicons?sz=64&domain=gouv.fr
 // @grant         unsafeWindow
 // @run-at        document-idle
