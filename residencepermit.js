@@ -5,7 +5,7 @@
 // @description   Pas mal non ? C'est français
 // @copyright     https://github.com/AzdrHA
 // @license       GPL-3.0 License
-// @version       1.0.0
+// @version       1.0.1
 
 // @homepageURL   https://github.com/AzdrHA/residence-permit
 // @supportURL    https://github.com/AzdrHA/residence-permit/issues
